@@ -8,8 +8,10 @@ En este curso vemos de todo:
 *El verdadero amor por las buenas practicas
 *Trucos muy locos del profesor.
 *Las personalidades multiples de Freddy
-*Creadoi por el increible TriquisTeam
+*Creado por el increible TriquisTeam
 
+*Incluye ejemplos en Windows, Linux y Mac.
+*Disponible para todas las edades
 
 y como un amable recordatorio: ^^ESTE README.MD ES UN CHISTE^^. Diseñado para el ejemplo. si llegas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
 [Platzi](http://platzi.com "Platzi")
